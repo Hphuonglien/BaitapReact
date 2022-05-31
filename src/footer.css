@@ -1,0 +1,29 @@
+.footer{
+    background-color: #656565;
+}
+.footer-content{
+    color: white
+}
+
+.footer-content .col{
+    padding: 40px 30px 5px 0;
+}
+
+.footer-content li{
+    list-style-type: none;
+    margin-left: -32px;
+}
+
+.footer-content ul{
+    padding-top: 30px;
+}
+
+.footer-content span{
+    padding-bottom: 10px!important;
+    border-bottom: solid 1px;
+}
+
+.footer-content img{
+    width: 80%;
+    padding-bottom: 20px;
+}

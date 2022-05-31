@@ -1,0 +1,213 @@
+.content{
+    padding-bottom:20px ; 
+ }
+ .title{
+     text-align: center;
+     font-size: 30px;
+     padding: 25px
+ }
+ .about{
+     display: flex;
+     justify-content: center;
+     font-size: 15px;
+     padding-bottom: 30px;
+ }
+ .about p{
+    text-align: center;
+    max-width:60% ;
+ }
+ .title-event{
+     color: white;
+ }
+ .new-news img{
+     height: 170px;
+     width: 100%;
+ }
+ 
+ .new-news h5{
+     height: 75px;
+     font-size: 19px;
+ }
+ 
+ .new-news p{
+     height: 100px;
+ }
+ 
+ .seemore{
+     background-color: #be0f0f;
+     text-align: center;
+     padding: 5px;
+ }
+ 
+ .seemore a{
+     color: white!important;
+     text-decoration: none;
+     font-size: 20px;
+ }
+.ev-bg{
+    background-color: black;
+}
+
+.event{
+    background-image: url('./image/event-bg.jpg');
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: 50% 50%;
+    top: 0;
+    left: 0;
+    /* opacity: 0.5; */
+    right: 0;
+    bottom: 0;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.event-item{
+    width: 20%!important;
+    opacity: 1!important;
+    padding: 30px;
+}
+
+.event-item div{
+    background-color: white;
+    opacity: 1!important;
+    width: 315px;
+}
+.event-content img{
+    height: 170px ;
+    width: 315px;
+}
+
+.event-item h5{
+    font-weight: bold;
+    font-size: 19px;
+    padding: 50px 20px 10px 20px;
+    height: 125px;
+    /* font-weight: 22%; */
+}
+
+.event-item p{
+    font-size: 13px;
+    padding: 0 20px 0px 20px;
+    height: 85px;
+}
+
+.edu img{
+    width: 360px;
+    height: 280px;
+}
+
+.edu-content{
+    padding: 20px 0;
+    display: flex;
+}
+.edu-content div{
+    font-size: 16px;
+    padding: 0px 20px;
+    height: 280px;
+}
+.edu-content h5{
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+.edu-content a{
+    color: black;
+    text-decoration: none;
+}
+
+.cn{
+    background-image: url('./image/cn-bg.jpg');
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: 50% 50%;
+    top: 0;
+    left: 0;
+    /* opacity: 0.5; */
+    right: 0;
+    bottom: 0;
+    padding: 0 !important;
+    margin: 0 !important;
+
+}
+
+.cn img{
+    width: 300px;
+    height: 380px;
+}
+
+.cn-content{
+    padding: 40px 0px;
+    display: flex;
+}
+.cn-content div{
+    background-color: white;
+    font-size: 16px;
+    padding: 0px 20px;
+    height: 380px;
+}
+.cn-content h5{
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.cn-content a{
+    color: black;
+    text-decoration: none;
+}
+
+.cn .about p{
+    color: white
+}
+
+.student img{
+    height: 240px;
+}
+.student div{
+    background-color: #f4f4f4;
+    box-shadow: 0 0.2px ;
+    padding: 0 5px 0 15px;
+}
+.about-soict{
+    background-color: #363636;
+    color: white;
+}
+.soict{
+    display: flex;
+    justify-content: center;
+    padding-left: 25%;
+    padding-right: auto;
+}
+.soict img{
+    height: 180px;
+    width: 130px;
+    
+    border-radius: 999px;
+}
+.soict .soict-content{
+    padding-left: 50px;
+    width: 65%;
+    border-left: solid 1px;
+}
+.soict-div{
+    padding-left: 30px;
+}
+.about-us{
+    background-color: #fcf9e2;
+}
+.us{
+    text-align: center;
+}
+
+.title-us{
+    font-size: 20px;
+}
+
+.number-us{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.video{
+    padding-bottom: 20px;
+}

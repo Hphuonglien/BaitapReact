@@ -1,0 +1,54 @@
+.container{
+    max-width: 1450px!important;
+}
+.top-header{
+    padding: 10px;
+}
+.logo{
+  width: 266px!important;
+  height: auto;
+}
+
+.school-name{
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 25px!important;
+    font-size: 20px;
+}
+
+.search{
+    height: 30px;
+}
+
+.search input{
+    border-radius: 25px;
+}
+
+.line-head{
+    background-color: #be0f0f;
+    height: 7px;
+}
+
+.menu,.menu ul,.menu li {
+    background-color: #363636;
+}
+
+.menu li{
+    border-left: solid 1px rgb(156, 156, 156);
+    border-right: solid 1px rgb(156, 156, 156);
+    margin: -8px 0;
+    height: 45px;
+}
+
+
+.menu a{
+    color: white!important;
+}
+.dropdown a {
+    padding-left: 15px!important;
+    padding-right: 15px!important;
+}
+
+.dropdown li a:hover {
+    background-color: rgb(54, 54, 247);
+}
