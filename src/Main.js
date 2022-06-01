@@ -51,38 +51,38 @@ function Main() {
             <div className="container">
               <h2  className="title title-event">Sự kiện mới nhất</h2>
               <div className="event-content row">
-                  <div className="event-item col">
-                    <img src={require("./image/ev1.png")} />
-                    <div>
-                     <h5>INNOVATION DAY 2022</h5>
-                     <p>Thời gian: 8:00 AM - 14/05/2022<br />
-                     Địa điểm: Sảnh tầng 1-4 và Hội trường B1 - Trường Đại học Bách khoa Hà Nội</p>
-                    </div>
-                  </div>
-                  <div className="event-item col">
-                    <img src={require("./image/ev2.jpg")} />
-                    <div>
-                     <h5>CUỘC THI TÌM KIẾM Ý TƯỞNG SÁNG TẠO SINH VIÊN 2022</h5>
-                     <p>Thời gian: 8:00 AM - 08/05/2022<br />
-                     Địa điểm: Tòa nhà B1 - Đại học Bách khoa Hà Nội</p>
-                    </div>
-                  </div>
-                  <div className="event-item col">
-                    <img src={require("./image/ev3.jpg")} />
-                    <div>
-                     <h5>HỘI THẢO KHOA HỌC VỀ CÁC XU THẾ HIỆN TẠI VÀ TƯƠNG </h5>
-                     <p>Thời gian: 2:00 PM - 06/05/2022<br />
-                     Địa điểm: Hội trường dốc, tầng 3 nhà B1, Đại học Bách khoa Hà Nội</p>
-                    </div>
-                  </div>
-                  <div className="event-item col">
-                    <img src={require("./image/ev4.jpg")} />
-                    <div>
-                     <h5>HÀNH TRANG SINH VIÊN TRƯỚC KHI RA TRƯỜNG 2022</h5>
-                     <p>Thời gian: 5:30 PM - 25/04/2022<br />
-                     Địa điểm: Hội trường dốc B1</p>
-                    </div>
-                  </div>
+              <div className="event-item col">
+                <img src={require("./image/ev1.png")} />
+                <div>
+                  <h5>INNOVATION DAY 2022</h5>
+                  <p>Thời gian: 8:00 AM - 14/05/2022<br />
+                  Địa điểm: Sảnh tầng 1-4 và Hội trường B1 - Trường Đại học Bách khoa Hà Nội</p>
+                </div>
+              </div>
+              <div className="event-item col">
+                <img src={require("./image/ev2.jpg")} />
+                <div>
+                  <h5>CUỘC THI TÌM KIẾM Ý TƯỞNG SÁNG TẠO SINH VIÊN 2022</h5>
+                  <p>Thời gian: 8:00 AM - 08/05/2022<br />
+                  Địa điểm: Tòa nhà B1 - Đại học Bách khoa Hà Nội</p>
+                </div>
+              </div>
+              <div className="event-item col">
+                <img src={require("./image/ev3.jpg")} />
+                <div>
+                  <h5>HỘI THẢO KHOA HỌC VỀ CÁC XU THẾ HIỆN TẠI VÀ TƯƠNG </h5>
+                  <p>Thời gian: 2:00 PM - 06/05/2022<br />
+                  Địa điểm: Hội trường dốc, tầng 3 nhà B1, Đại học Bách khoa Hà Nội</p>
+                </div>
+              </div>
+              <div className="event-item col">
+                <img src={require("./image/ev4.jpg")} />
+                <div>
+                  <h5>HÀNH TRANG SINH VIÊN TRƯỚC KHI RA TRƯỜNG 2022</h5>
+                  <p>Thời gian: 5:30 PM - 25/04/2022<br />
+                  Địa điểm: Hội trường dốc B1</p>
+                </div>
+              </div>
               </div>
             </div>
             <div className="seemore"><a href="#">Xem thêm sự kiện</a></div>
@@ -116,23 +116,23 @@ function Main() {
           <div className="cn">
             <div className="container">
               <h2  className="title title-event">HỢP TÁC - ĐỐI NGOẠI</h2>
-              <div className="about">
-                <p>Trường CNTT&TT luôn coi trọng các hoạt động hợp tác quốc tế và hợp tác doanh nghiệp để nâng cao chất lượng các hoạt giảng dạy, nghiên cứu và chuyển giao công nghệ.</p>
-              </div>
-              <div className=" row">
-                <div className="col cn-content">
-                  <img src={require("./image/cn1.png")} />
-                  <div>
-                    <h5>CÁC TRƯỜNG ĐỐI TÁC</h5>
-                    <p>Trường CNTT&TT có quan hệ hợp tác với nhiều trường đại học và viện nghiên cứu uy tín trên Thế giới. Thông qua hợp tác, sinh viên của Trường có cơ hội học tập, nghiên cứu tại các trường đối tác thông qua các học bổng trao đổi sinh viên, cũng như các dự án hợp tác nghiên cứu. Trường hợp tác với các đại học lớn ở Châu Âu, Nhật Bản… để cung cấp cho sinh viên các chương trình đào tạo song bằng (double degree), một hình thức “du học” kinh tế và hiệu quả… <a href="">(xem tiếp)</a></p>
-                  </div>
+                <div className="about">
+                  <p>Trường CNTT&TT luôn coi trọng các hoạt động hợp tác quốc tế và hợp tác doanh nghiệp để nâng cao chất lượng các hoạt giảng dạy, nghiên cứu và chuyển giao công nghệ.</p>
                 </div>
-                <div className="col cn-content">
-                  <img src={require("./image/cn2.jpg")} />
-                  <div>
-                    <h5>DOANH NGHIỆP ĐỐI TÁC</h5>
-                    <p>Đào tạo và nghiên cứu rất cần sự hợp tác thực chất với cộng đồng doanh nghiệp. Trường hiện đang duy trì hợp tác với mạng lưới gồm hơn 130 doanh nghiệp CNTT trong và ngoài nước, trong đó có thể kể tới HEDSPI Supporting Partner Network (HEDSPI-SPN), mạng lưới hỗ trợ sinh viên tăng cường ngoại ngữ, phát triển kỹ năng mềm, cũng như làm quen với văn hóa DN để gia tăng sức cạnh tranh trong thị trường lao động quốc tế…<a href=""> (xem tiếp)</a></p>
+                <div className=" row">
+                  <div className="col cn-content">
+                    <img src={require("./image/cn1.png")} />
+                    <div>
+                      <h5>CÁC TRƯỜNG ĐỐI TÁC</h5>
+                      <p>Trường CNTT&TT có quan hệ hợp tác với nhiều trường đại học và viện nghiên cứu uy tín trên Thế giới. Thông qua hợp tác, sinh viên của Trường có cơ hội học tập, nghiên cứu tại các trường đối tác thông qua các học bổng trao đổi sinh viên, cũng như các dự án hợp tác nghiên cứu. Trường hợp tác với các đại học lớn ở Châu Âu, Nhật Bản… để cung cấp cho sinh viên các chương trình đào tạo song bằng (double degree), một hình thức “du học” kinh tế và hiệu quả… <a href="">(xem tiếp)</a></p>
+                    </div>
                   </div>
+                  <div className="col cn-content">
+                    <img src={require("./image/cn2.jpg")} />
+                    <div>
+                      <h5>DOANH NGHIỆP ĐỐI TÁC</h5>
+                      <p>Đào tạo và nghiên cứu rất cần sự hợp tác thực chất với cộng đồng doanh nghiệp. Trường hiện đang duy trì hợp tác với mạng lưới gồm hơn 130 doanh nghiệp CNTT trong và ngoài nước, trong đó có thể kể tới HEDSPI Supporting Partner Network (HEDSPI-SPN), mạng lưới hỗ trợ sinh viên tăng cường ngoại ngữ, phát triển kỹ năng mềm, cũng như làm quen với văn hóa DN để gia tăng sức cạnh tranh trong thị trường lao động quốc tế…<a href=""> (xem tiếp)</a></p>
+                    </div>
                 </div>
               </div>
             </div>
@@ -179,10 +179,10 @@ function Main() {
               <div><img src={require("./image/talk.jpg")} /></div>
               <div className= "soict-div">
                 <p className="soict-content">Sinh viên Trường CNTT&TT không chỉ được biết đến với nền tảng kiến thức kỹ thuật sắc bén và sự thích ứng tuyệt vời với bất kỳ nhiệm vụ nào được giao, mà còn được đánh giá cao bởi tư duy phản biện và sáng tạo. Trong SVMC, sinh viên ĐHBK Hà Nội nói chung và sinh viên Trường CNTT&TT nói riêng luôn giữ các vị trí quan trọng, và trở thành thành viên chủ chốt trong nhiều dự án cốt lõi của Trung tâm. Trường và SVMC đã củng cố mối quan hệ bền chặt, được thể hiện thông qua văn bản hợp tác chính thức, mở đường cho các hoạt động tài trợ tăng cường năng lực, cũng như học bổng cho sinh viên. Hiện tại, hơn 25% nhân viên của SVMC đã tốt nghiệp từ ĐHBK Hà Nội, trong đó có Trường CNTT&TT, và chúng tôi luôn mong muốn gia tăng số lượng này. SVMC luôn đánh giá cao hiệu quả hợp tác với Trường CNTT&TT – một đối tác chiến lược toàn diện của SVMC tại Việt Nam.</p>
-                <p><b>Ông Kim In Soo</b><br />
-                Tổng Giám đốc Trung tâm Nghiên cứu và Phát triển Điện thoại Di động Samsung Việt Nam (SVMC)</p>
               </div>
-            </div>   
+            </div>
+            <p class="kiminsoo"><b>Ông Kim In Soo</b><br />
+            Tổng Giám đốc Trung tâm Nghiên cứu và Phát triển Điện thoại Di động Samsung Việt Nam (SVMC)</p>
         </div>
         <div className="about-us">
           <div className="container">

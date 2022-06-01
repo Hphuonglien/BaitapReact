@@ -8,7 +8,7 @@ function Footer() {
       <div class="container footer-content">
             <div class="row">
                 <div class="col">
-                    <span>KHOA – TRUNG TÂM</span>
+                <div>KHOA – TRUNG TÂM</div><hr />
                     <ul>
                         <li>Khoa học Máy tính</li>
                         <li>Kỹ thuật Máy tính</li>
@@ -21,7 +21,7 @@ function Footer() {
                     </ul>
                 </div>
                 <div class="col">
-                    <span>HỆ THỐNG VÀ TÀI NGUYÊN</span>
+                <div>HỆ THỐNG VÀ TÀI NGUYÊN</div><hr />
                     <ul>
                         <li>Chương trình Việt Nhật (HEDSPI)</li>
                         <li>Chương trình Global ICT</li>
@@ -34,19 +34,19 @@ function Footer() {
                     </ul>
                 </div>
                 <div class="col">
-                    <span>CHƯƠNG TRÌNH ĐÀO TẠO</span>
-                    <ul>
-                        <li>Hệ thống Quản lý Đào tạo</li>
-                        <li>Hệ thống Quản lý Hợp tác Doanh nghiệp</li>
-                        <li>Các mẫu biểu dành cho sinh viên Viện</li>
-                    </ul>
+                <div>CHƯƠNG TRÌNH ĐÀO TẠO</div><hr />
+                <ul>
+                    <li>Hệ thống Quản lý Đào tạo</li>
+                    <li>Hệ thống Quản lý Hợp tác Doanh nghiệp</li>
+                    <li>Các mẫu biểu dành cho sinh viên Viện</li>
+                </ul>
                 </div>
                 <div class="col">
-                    <img src={require("./image/logo-footer.png")} />
-                    <p> (+84) 24 3869 2463<br />
-                    vp@soict.hust.edu.vn<br />
-                    P. 505 – Nhà B1 – Đại học Bách khoa Hà Nội<br />
-                    Số 1 Đại Cồ Việt – Hai Bà Trưng – Hà Nội</p>
+                <img src={require("./image/logo-footer.png")} />
+                <p> (+84) 24 3869 2463<br />
+                vp@soict.hust.edu.vn<br />
+                P. 505 – Nhà B1 – Đại học Bách khoa Hà Nội<br />
+                Số 1 Đại Cồ Việt – Hai Bà Trưng – Hà Nội</p>
                 </div>
             </div>
       </div>

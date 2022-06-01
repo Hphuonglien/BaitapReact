@@ -16,11 +16,8 @@
     font-size: 20px;
 }
 
-.search{
-    height: 30px;
-}
-
 .search input{
+    height: 30px;
     border-radius: 25px;
 }
 

@@ -16,21 +16,13 @@
     text-align: center;
     max-width:60% ;
  }
- .title-event{
-     color: white;
- }
  .new-news img{
      height: 170px;
      width: 100%;
  }
  
  .new-news h5{
-     height: 75px;
      font-size: 19px;
- }
- 
- .new-news p{
-     height: 100px;
  }
  
  .seemore{
@@ -50,19 +42,11 @@
 
 .event{
     background-image: url('./image/event-bg.jpg');
-    background-size: cover !important;
     background-repeat: no-repeat !important;
-    background-position: 50% 50%;
-    top: 0;
-    left: 0;
-    /* opacity: 0.5; */
-    right: 0;
-    bottom: 0;
     padding: 0 !important;
     margin: 0 !important;
 }
 .event-item{
-    width: 20%!important;
     opacity: 1!important;
     padding: 30px;
 }
@@ -81,14 +65,12 @@
     font-weight: bold;
     font-size: 19px;
     padding: 50px 20px 10px 20px;
-    height: 125px;
     /* font-weight: 22%; */
 }
 
 .event-item p{
     font-size: 13px;
     padding: 0 20px 0px 20px;
-    height: 85px;
 }
 
 .edu img{
@@ -117,22 +99,16 @@
 
 .cn{
     background-image: url('./image/cn-bg.jpg');
-    background-size: cover !important;
     background-repeat: no-repeat !important;
     background-position: 50% 50%;
-    top: 0;
-    left: 0;
-    /* opacity: 0.5; */
-    right: 0;
-    bottom: 0;
     padding: 0 !important;
     margin: 0 !important;
 
 }
 
 .cn img{
-    width: 300px;
-    height: 380px;
+    width: 360px;
+    height: 360px;
 }
 
 .cn-content{
@@ -143,7 +119,7 @@
     background-color: white;
     font-size: 16px;
     padding: 0px 20px;
-    height: 380px;
+    height: 360px;
 }
 .cn-content h5{
     font-size: 20px;
@@ -181,8 +157,6 @@
 .soict img{
     height: 180px;
     width: 130px;
-    
-    border-radius: 999px;
 }
 .soict .soict-content{
     padding-left: 50px;
@@ -192,12 +166,19 @@
 .soict-div{
     padding-left: 30px;
 }
+
+
+.kiminsoo{
+    padding-left: 35%;   
+}
+
 .about-us{
     background-color: #fcf9e2;
 }
 .us{
     text-align: center;
 }
+
 
 .title-us{
     font-size: 20px;
@@ -207,6 +188,7 @@
     font-size: 40px;
     font-weight: bold;
 }
+
 
 .video{
     padding-bottom: 20px;
